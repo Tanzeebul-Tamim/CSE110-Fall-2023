@@ -7,6 +7,6 @@
 #### Clone the repository:
 
    ```sh
-   git clone https://github.com/Tanzeebul-Tamim/UniMate-UMS.git
+   git clone https://github.com/Tanzeebul-Tamim/CSE-110-Assignments.git
 
    ```
