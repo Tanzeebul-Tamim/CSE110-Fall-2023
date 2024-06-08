@@ -24,5 +24,5 @@ This repository contains files in Jupyter Notebook (*.ipynb) format, which allow
 To clone this repository to your local machine, use the following command:
 
 ```sh
-git clone https://github.com/Tanzeebul-Tamim/CSE110.git
+git clone https://github.com/Tanzeebul-Tamim/CSE110-Fall-2023.git
 ```
