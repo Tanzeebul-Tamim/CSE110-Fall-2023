@@ -17,9 +17,11 @@ Navigate to the respective folders to access assignments, quizzes, practice work
 
 ## Note
 
-This repository contains files in ipynb (Jupyter Notebook) format, which allows for interactive coding and documentation. Ensure you have the necessary tools to view and run Jupyter Notebooks.
+This repository contains files in Jupyter Notebook (*.ipynb) format, which allows for interactive coding and documentation. Ensure you have the necessary tools to view and run Jupyter Notebooks.
 
 ## Clone the Repository:
+
+To clone this repository to your local machine, use the following command:
 
 ```sh
 git clone https://github.com/Tanzeebul-Tamim/CSE110.git
