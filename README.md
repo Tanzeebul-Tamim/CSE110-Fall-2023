@@ -1,6 +1,6 @@
 # CSE110 - Programming Language I
 
-Welcome to the repository for the Fall 2023 semester of CSE110 - Programming Language I. This repository contains a collection of all lab-assignments, quizzes, practice works, and exercise solution codes for the course.
+Welcome to the repository for the BRACu Fall-2023 semester of CSE110 - Programming Language I course. This repository contains a collection of all lab-assignments, quizzes, practice works, and exercise solution codes for the course.
 
 ## Content Structure
 
