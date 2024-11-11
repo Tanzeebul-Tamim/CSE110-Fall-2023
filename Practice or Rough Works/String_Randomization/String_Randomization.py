@@ -4,8 +4,10 @@ import time
 
 letters = string.ascii_letters
 result = ""
-user_input = input("Please enter your name: ")
-# user_input = "Code, Create, Conquer - 'Tanzeebul Tamim'"
+
+file = open('./text.txt', 'r', encoding='utf-8')
+# user_input = input("Enter your name: ")
+user_input = file.read()
 
 for letter in user_input:
     while True:
@@ -22,4 +24,4 @@ for letter in user_input:
 
 for i in range (0 , 60):
     print(user_input)
-    time.sleep(0.003)
+    time.sleep(0.005)
