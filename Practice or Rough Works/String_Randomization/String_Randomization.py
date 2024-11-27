@@ -5,8 +5,7 @@ import time
 letters = string.ascii_letters
 result = ""
 
-file = open('./text.txt', 'r', encoding='utf-8')
-# user_input = input("Enter your name: ")
+file = open('./text.txt', 'r')
 user_input = file.read()
 
 for letter in user_input:
@@ -24,4 +23,4 @@ for letter in user_input:
 
 for i in range (0 , 60):
     print(user_input)
-    time.sleep(0.005)
+    time.sleep(0.003)
