@@ -17,7 +17,7 @@ Navigate to the respective folders to access assignments, quizzes, practice work
 
 ## Note
 
-This repository contains files in Jupyter Notebook (*.ipynb) format, which allows for interactive coding and documentation. Ensure you have the necessary tools to view and run Jupyter Notebooks.
+This repository contains files in Jupyter Notebook (`*.ipynb`) format, which allows for interactive coding and documentation. To effectively view and run these files, ensure you have the necessary tools set up on your system, such as Python installed along with Jupyter Notebook or JupyterLab. Alternatively, you can use online platforms like [Google Colab](https://colab.research.google.com/), which provide an easy and hassle-free environment to execute Jupyter Notebooks without requiring a local setup.
 
 ## Clone the Repository:
 
